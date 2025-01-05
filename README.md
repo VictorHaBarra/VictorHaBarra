@@ -1,6 +1,6 @@
 # 🌟 **Victor Hugo Astorino**  
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas (FIAP)**  
+🎓 **Recém Formando em Análise e Desenvolvimento de Sistemas (FIAP)**  
 💡 Explorando **Inteligência Artificial**, **IoT** e soluções inovadoras para resolver problemas do mundo real.  
 
 ---
